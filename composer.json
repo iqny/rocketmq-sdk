@@ -1,0 +1,22 @@
+{
+    "name": "iqny/rocketmq-sdk",
+    "authors": [
+        {
+            "name": "iqny",
+            "email": "2728768646@qq.com"
+        }
+    ],
+    "require": {
+        "php": ">=7.0.0",
+        "guzzlehttp/guzzle": "~6.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "MQ\\": "src"
+        },
+        "files": [
+        ]
+    },
+    "extra": {
+    }
+}
